@@ -1,4 +1,4 @@
-In this project i tried to code a simple telephone directory by using qt designer and PyQt5 library on python. Also i did it with SQL using databases.
+In this project i tried to code a simple telephone directory app by using qt designer and PyQt5 library on python. Also i did it with SQL using databases.
 
 <br>
 
